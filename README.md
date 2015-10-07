@@ -10,7 +10,7 @@ The following machines are provided:
 1. idp-base: IdP with in-memory session storage and password-based authentication against OpenLDAP
 2. idp-postgresql: Base, but with PostgreSQL session storage
 
-All machines are based on Ubuntu 14.04 (Trust Tahr).
+All machines are based on Ubuntu 14.04 (Trusty Tahr).
 
 Running a Machine
 -----------------
