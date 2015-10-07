@@ -1,0 +1,103 @@
+dn: ou=People,dc=nodomain
+objectClass: organizationalUnit
+ou: People
+
+dn: uid=test1,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+uid: test1
+sn: User
+givenName: Test1
+cn: Test1 User
+displayName: Test1 User
+userPassword: password1
+mail: test1@nodomain
+
+dn: uid=test2,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+uid: test2
+sn: User
+givenName: Test2
+cn: Test2 User
+displayName: Test2 User
+userPassword: password2
+mail: test2@nodomain
+
+dn: uid=test3,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+uid: test3
+sn: User
+givenName: Test3
+cn: Test3 User
+displayName: Test3 User
+userPassword: password3
+mail: test3@nodomain
+
+dn: uid=test4,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+uid: test4
+sn: User
+givenName: Test4
+cn: Test4 User
+displayName: Test4 User
+userPassword: password4
+mail: test4@nodomain
+
+dn: uid=test5,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+uid: test5
+sn: User
+givenName: Test5
+cn: Test5 User
+displayName: Test5 User
+userPassword: password5
+mail: test5@nodomain
+
+dn: uid=test6,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+uid: test6
+sn: User
+givenName: Test6
+cn: Test6 User
+displayName: Test6 User
+userPassword: password6
+mail: test6@nodomain
+
+dn: uid=test7,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+uid: test7
+sn: User
+givenName: Test7
+cn: Test7 User
+displayName: Test7 User
+userPassword: password7
+mail: test7@nodomain
+
+dn: uid=test8,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+uid: test8
+sn: User
+givenName: Test8
+cn: Test8 User
+displayName: Test8 User
+userPassword: password8
+mail: test8@nodomain
+
+dn: uid=test9,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+uid: test9
+sn: User
+givenName: Test9
+cn: Test9 User
+displayName: Test9 User
+userPassword: password9
+mail: test9@nodomain
+
+dn: uid=test10,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+uid: test10
+sn: User
+givenName: Test10
+cn: Test10 User
+displayName: Test10 User
+userPassword: password10
+mail: test10@nodomain
