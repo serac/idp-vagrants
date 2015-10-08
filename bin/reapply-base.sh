@@ -18,6 +18,6 @@ for VAGRANT in $ROOT/idp-*; do
   fi
   echo "Applying base configuration to $VAGRANT"
   for F in ${TOCOPY[@]}; do
-    echo cp -vR $ROOT/idp-base/$F $ROOT/$VAGRANT/
+    cp -vR $ROOT/idp-base/$F $ROOT/$VAGRANT/$(dirname $F)
   done
 done
